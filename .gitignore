@@ -27,4 +27,16 @@ bin/
 .vscode/
 
 ### Mac OS ###
+<<<<<<< HEAD
 .DS_Store
+=======
+.DS_Store
+
+# Compiled files
+*.class
+out/
+
+# IntelliJ
+.idea/
+*.iml
+>>>>>>> 4d11ed6 (Add .gitignore to ignore IntelliJ files)
