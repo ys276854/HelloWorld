@@ -27,6 +27,7 @@ bin/
 .vscode/
 
 ### Mac OS ###
+<<<<<<< HEAD
 .DS_Store
 
 # Compiled files
@@ -36,3 +37,6 @@ out/
 # IntelliJ
 .idea/
 *.iml
+=======
+.DS_Store
+>>>>>>> fe512d6 (Base application setup)
